@@ -1,0 +1,12 @@
+{
+  "appId": "com.hello.world",
+  "appName": "helloworld",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
